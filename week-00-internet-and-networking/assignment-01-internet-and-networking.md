@@ -28,13 +28,11 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 ![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
-
----
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a protocol is basically a set of rules that helps devices communicate with each other. I understood it better by comparing it to a phone conversation, where both people follow certain rules to understand each other. I also learned that HTTP is a networking protocol used when a browser communicates with a web server.
+
 
 ---
 
@@ -55,11 +53,11 @@ Write a short explanation (**100–150 words**) that includes:
 * TCP/IP
 * HTTP/HTTPS
 
-💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
 
-Add your answer here...
+When a user opens the EpicReads website from anywhere in the world, the request is divided into small units called packets and sent across different networks using packet switching. The website's server in Finland has an IP address that identifies it on the internet. TCP/IP provides the rules needed to deliver these packets reliably between the user's device and the server. TCP handles reliable delivery, while IP helps route packets to the correct destination. Once the request reaches the EpicReads server, HTTP or HTTPS is used for communication between the browser and the website. HTTPS is preferred because it encrypts the communication and protects sensitive information such as login credentials and payment details. The response is then sent back to the user's device and displayed as the EpicReads website.
+
 
 ---
 
@@ -102,18 +100,15 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+Frontend: React, HTML/CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Backend: Node.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+Database: MySQL, PostgreSQL
 
 ---
 
@@ -142,7 +137,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) translates human-readable domain names into IP addresses that computers can understand. Instead of remembering an address like 52.172.142.222:3000, users can simply enter epicreads.com in their browser. To connect epicreads.com to the given IPv4 address, an A record should be created because an A record maps a domain name to an IPv4 address. The port number 3000 is not included in the DNS record; it is handled separately by the application/server configuration.
+
 
 ---
 
@@ -247,19 +243,16 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+The basic networking concepts such as IP addresses, DNS, and HTTP/HTTPS were relatively easy to understand because I could relate them to how I already use websites and browsers. 
 
----
 
 ### What was difficult?
-
-Add your answer here...
-
+Initially, I found it a little challenging to remember the differences between commands used in different operating systems. With some practice in the VS Code terminal, I was able to understand and use them more confidently.
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will focus on mastering my understanding of networking concepts through practicing 
 
 ---
 
