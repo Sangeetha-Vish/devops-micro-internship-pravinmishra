@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that being good at something is not always about working harder; sometimes, it is about being willing to look stupid while learning. Many people around me think we should only show what we are already good at, especially in academics or careers. I disagree. I think asking basic questions, making mistakes, and admitting that I don't know something are actually signs of serious learning. I would rather struggle openly and understand something properly than pretend to know it just to look capable.
+
 
 ---
 
@@ -55,11 +56,13 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Understanding something deeply is more valuable than memorizing the answer.
 
 ### Evidence from my life
 
-Add your answer here...
+While preparing for technical interviews, I initially tried to remember definitions and code directly.
+When I was asked follow-up questions like “why does this happen?” or “what happens internally?”, I realized memorized answers were not enough.
+After changing my approach to understand the reason behind each concept, I became much more confident in explaining and applying it.
 
 ---
 
@@ -67,11 +70,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Real projects expose gaps in knowledge that theoretical learning alone cannot reveal.
 
 ### Evidence from my life
 
-Add your answer here...
+While working on projects like Roam Squad and Odoo Cafe, I faced problems that I had never encountered while simply studying concepts.
+Things like handling edge cases, authentication, database consistency, and different users accessing the system forced me to understand how the technologies actually work.
+I learned more from solving those problems than from simply completing tutorials.
 
 ---
 
@@ -79,11 +84,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistent small progress produces better results than waiting for the perfect time or motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+During my preparation for coding and technical interviews, I noticed that I could not improve significantly by studying only when I felt motivated.
+When I consistently practiced problems, revised concepts, and analyzed my mistakes, my ability to solve unfamiliar questions improved.
+The results showed me that consistency mattered more than occasional intense effort.
 
 ---
 
@@ -145,13 +152,70 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+# My 2.0 Version: From Building Projects to Building Systems
+
+Three to seven years from now, Sangeetha was no longer introduced as someone who was “good at coding.” She had become an engineer who could be trusted with a problem from the moment it was given to her until the moment it reached production.
+
+Her journey had started with curiosity. During college, she had built projects because she wanted to understand how things worked—not just because they were required. Roam Squad, AgriRental, Odoo Cafe, and Nellai Muthu Vilas had each taught her something different. One taught her about handling complex itineraries, another about preventing booking conflicts, another about integrating business workflows, and another about designing a multi-branch ordering system.
+
+But those projects had eventually changed the way she looked at software.
+
+She had stopped asking only, “How do I implement this feature?”
+
+She had started asking, “What happens when 1,000 users do this at the same time?”
+
+That question had taken her deeper into backend engineering, databases, cloud infrastructure, DevOps, authentication, caching, monitoring, and system reliability. She had learned that writing code was only one part of engineering. Understanding failure, performance, security, deployment, and maintainability mattered just as much.
+
+At work, she had become the person who did not disappear when something broke.
+
+If an API became slow, she investigated the request flow. If a database query caused problems, she checked what was happening underneath. If a deployment failed, she looked at logs and infrastructure instead of randomly changing code. If users reported an issue that could not be reproduced immediately, she learned to ask better questions and trace the problem systematically.
+
+Her GitHub had changed along with her mindset. It was no longer a collection of projects created only for college submissions. It had become a technical record of her growth—projects she had actually deployed, experiments where she had tested ideas, documentation explaining decisions, and repositories showing how she had improved systems over time.
+
+She had also started writing.
+
+Some of her earliest technical explanations had been about concepts she herself had once found confusing: APIs, authentication, databases, Docker, cloud deployment, and DevOps. Teaching those concepts through blogs had made her realize something important—if she could explain a difficult concept simply, she probably understood it much better herself.
+
+Her growth had not been limited to technology.
+
+She had become comfortable working with people who thought differently from her. She had learned to receive criticism without taking it personally, disagree without creating unnecessary conflict, and ask for help without feeling that it made her less capable.
+
+She had also started mentoring juniors. Sometimes she had helped someone debug code; sometimes she had simply helped them understand where to begin. She remembered how confusing the early stages had felt, and that experience had made her patient with beginners.
+
+There had been failures too.
+
+Some deployments had not gone as expected. Some technical decisions had turned out to be wrong. Some ideas had worked perfectly in development and failed under real conditions.
+
+But failure had stopped feeling like proof that she was not good enough.
+
+It had become information.
+
+Her most valuable sentence had become:
+
+**“I don't know yet. Let me find out.”**
+
+That sentence had changed the way she learned.
+
+She no longer tried to appear like someone who knew everything. Instead, she became someone who could learn quickly, investigate deeply, and take responsibility for the outcome.
+
+Her certifications had supported her technical journey, but her real qualification had been the systems she had built, deployed, broken, debugged, and improved.
+
+Looking back, her 2.0 version had not been created by one major achievement.
+
+It had been created by small habits repeated for years: opening documentation instead of guessing, debugging instead of blaming, asking why instead of memorizing, shipping instead of endlessly preparing, and helping others while continuing to learn herself.
+
+The student who once asked, “What kind of engineer should I become?” had eventually found her answer.
+
+She had become the kind of engineer who could be given a problem and trusted to own it.
+
+**P.S.** This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: [YOUR-GITHUB-PROGRESS-LINK] · Start your DevOps journey: [DMI-LINK]
+
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+(https://medium.com/@23cs091_69887/my-2-0-version-from-building-projects-to-building-systems-41dd0d92129a?sharedUserId=23cs091_69887)
 
 ---
 
@@ -175,7 +239,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+Yes
 
 If Yes:
 
@@ -183,7 +247,9 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+What emotion did you feel?
+
+I have taken shortcuts before, especially when I was trying to finish something quickly instead of understanding it properly. At first, the shortcut felt convenient because I completed the task faster. But afterward, I felt uncomfortable because I knew I had avoided the actual learning or effort required. It also created stress when I had to explain what I had done or when the same problem appeared again. That experience taught me that a shortcut can save time temporarily but create a bigger problem later. Since then, I have tried to understand the reason behind my work instead of only focusing on finishing it.
 
 ---
 
@@ -246,17 +312,37 @@ List topics only. No need to share numbers.
 * Spending tracker
 
 ## My Metrics
+## 10 Non-Fiction Books I Plan to Read in the Next 1 Year
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+1. **Atomic Habits — James Clear**
+   To build better habits and become more consistent with learning and work.
+
+2. **Deep Work — Cal Newport**
+   To improve my ability to focus on difficult technical work without distractions.
+
+3. **The Psychology of Money — Morgan Housel**
+   To understand how people think about money, saving, spending, and long-term financial decisions.
+
+4. **How to Win Friends and Influence People — Dale Carnegie**
+   To improve my communication, relationships, and ability to work effectively with different people.
+
+5. **The 7 Habits of Highly Effective People — Stephen R. Covey**
+   To develop better decision-making, responsibility, and personal leadership.
+
+6. **The Pragmatic Programmer — Andrew Hunt and David Thomas**
+   To improve my approach to software development, problem-solving, and writing maintainable code.
+
+7. **Clean Code — Robert C. Martin**
+   To learn better practices for writing readable, maintainable, and professional software.
+
+8. **The Manager's Path — Camille Fournier**
+   To understand technical leadership, mentoring, teamwork, and how engineers grow into leadership roles.
+
+9. **Essentialism: The Disciplined Pursuit of Less — Greg McKeown**
+   To learn how to prioritize important work instead of trying to do everything at once.
+
+10. **Start with Why — Simon Sinek**
+    To understand purpose, leadership, and how a clear reason behind an action can influence people and organizations.
 
 ---
 
@@ -278,11 +364,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+Yes
 
 Answer:
 
-Add your answer here...
+I wrote down the tasks, goals, pending work, learning plans, project responsibilities, interview preparation, DMI activities, and things that were occupying my mind. Putting everything on paper helped me see what actually needed my attention instead of trying to remember everything mentally.
 
 ---
 
@@ -300,7 +386,30 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Weekly Routine
+
+Monday – Thursday
+
+1 hour of technical learning or coding practice
+30 minutes for college/project work
+15 minutes to review the next day's priorities
+
+Friday
+
+Review the week's progress
+Complete any pending technical or college work
+
+Saturday
+
+2 hours of DMI work
+1 hour of project/DevOps practice
+
+Sunday
+
+1 hour weekly review
+Plan the upcoming week
+Revise important concepts or unfinished work
+Keep some time free for rest
 
 ---
 
@@ -308,11 +417,15 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday: 10:00 AM – 12:00 PM
+
+Additional small DMI tasks will be completed on Wednesday from 7:30 PM – 8:00 PM when required.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2 sessions per week
+
+One major session on Saturday and one short follow-up session during the week.
 
 ---
 
@@ -326,7 +439,18 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away from my study/workspace during focus blocks.
+
+Use Do Not Disturb mode while doing DMI or technical work.
+
+Avoid checking social media during a focus session.
+
+Work on only one important task at a time.
+Keep unnecessary browser tabs closed.
+
+If I get distracted, I will write down the distraction and return to the current task instead of switching immediately.
+
+Take a short break after completing a focus block instead of continuously working without rest.
 
 ---
 
@@ -334,15 +458,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I usually have enough time to complete important work, but I lose focus when I keep too many things in my mind at the same time. Writing down my tasks made them feel more manageable. I also noticed that starting a task is often harder than actually continuing it.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness was trying to handle multiple priorities at once. When I had college work, interview preparation, projects, and DMI tasks together, I sometimes switched between them instead of completing one task properly. This made me feel busy without always producing enough progress.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every night at 9:30 PM, I will spend 10 minutes writing the three most important tasks for the next day. I will complete the most important one before moving to less important tasks whenever possible.
 
 ### LinkedIn Post
 
@@ -355,7 +479,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : (https://medium.com/@23cs091_69887/my-2-0-version-from-building-projects-to-building-systems-41dd0d92129a?sharedUserId=23cs091_69887) 
 
 ---
 
