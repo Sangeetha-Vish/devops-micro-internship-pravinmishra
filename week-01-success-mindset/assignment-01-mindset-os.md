@@ -273,19 +273,28 @@ Choose books that improve:
 * career
 * leadership
 
+
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. **Atomic Habits — James Clear**
 
+2. **Deep Work — Cal Newport**
+
+3. **The Psychology of Money — Morgan Housel**
+
+4. **How to Win Friends and Influence People — Dale Carnegie**
+
+5. **The 7 Habits of Highly Effective People — Stephen R. Covey**
+
+6. **The Pragmatic Programmer — Andrew Hunt and David Thomas**
+
+7. **Clean Code — Robert C. Martin**
+
+8. **The Manager's Path — Camille Fournier**
+
+9. **Essentialism: The Disciplined Pursuit of Less — Greg McKeown**
+
+10. **Start with Why — Simon Sinek**
 ---
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
@@ -472,13 +481,13 @@ Every night at 9:30 PM, I will spend 10 minutes writing the three most important
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+[`Add your URL here`](https://lnkd.in/p/d_qEq8CP)
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: (https://lnkd.in/p/d_qEq8CP)
 - Blog / Medium : (https://medium.com/@23cs091_69887/my-2-0-version-from-building-projects-to-building-systems-41dd0d92129a?sharedUserId=23cs091_69887) 
 
 ---
